@@ -81,7 +81,11 @@ plot(cricket$Fifties~cricket$Hundreds,xlab="Hundreds" ,ylab="Fifties", main="Sca
 ![image](https://user-images.githubusercontent.com/66154908/203515709-66390640-37a3-4261-8212-71ae62533007.png)
 
 
-
+10. Plotting Scatterplot with background theme and symbols
+```
+ggplot(data=cricket,aes(y=Fifties,x=Hundreds,col=Country))+geom_point()
+```
+![image](https://user-images.githubusercontent.com/92450677/203516332-ff05059f-5337-4153-8969-3c0b10c10074.png)
 
 
 
