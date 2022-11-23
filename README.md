@@ -25,3 +25,13 @@ head(cricket,7)
 ```
 head(cricket,-7)
 ```
+
+5. To get last 7 rows
+```
+tail(cricket,7)
+```
+
+6. To remove first 7 rows and print remaining data 
+```
+tail(cricket,-7)
+```
