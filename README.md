@@ -4,6 +4,16 @@
 1. How to clear R studio console
 `CNTRL + L`
 
+2. installing ggplot libararies
+```
+install.packages('ggplot2', repos='http://cran.us.r-project.org')
+```
+
+3. import ggplot
+``` 
+library(ggplot2)
+``` 
+
 ## Visualization Commands
 
 1. How to load dataset
