@@ -1,6 +1,10 @@
 # Visualization-in-R
 
-## Commands
+## R studio commands
+1. How to clear R studio console
+`CNTRL + L`
+
+## Visualization Commands
 
 1. How to load dataset
 ```
