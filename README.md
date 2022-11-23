@@ -45,3 +45,12 @@ tail(cricket,-7)
 ```
 ![image](https://user-images.githubusercontent.com/92450677/203500058-88281f9f-6972-4a91-967e-234255bc9c14.png)
 
+7. To summaries dataset 
+```
+summary(cricket)
+```
+![image](https://user-images.githubusercontent.com/92450677/203502539-15dc4e2f-8165-4912-90f3-6ee7e2d478bc.png)
+
+
+
+
