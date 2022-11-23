@@ -74,6 +74,14 @@ hist(cricket$Sixes, col=c("green", "red", "blue"), xlab="Number of Sixes", ylab=
 ![image](https://user-images.githubusercontent.com/92450677/203508360-b1e81092-8567-4deb-b0ac-a3cc35a9f1df.png)
 
 
+9. Plotting Scatterplot
+```
+plot(cricket$Fifties~cricket$Hundreds,xlab="Hundreds" ,ylab="Fifties", main="Scatterplot for Hundreds vs Fifties", col=c("blue", "red"),pch=16)
+```
+![image](https://user-images.githubusercontent.com/66154908/203515709-66390640-37a3-4261-8212-71ae62533007.png)
+
+
+
 
 
 
