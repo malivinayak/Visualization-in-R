@@ -51,6 +51,11 @@ summary(cricket)
 ```
 ![image](https://user-images.githubusercontent.com/92450677/203502539-15dc4e2f-8165-4912-90f3-6ee7e2d478bc.png)
 
+8. Creating pie-chart
+```
+pie(table(cricket$Country), main = "Pie Chart of the cricket data set of contries", col = c("orange","pink","red","blue","yellow","green","violet"), radius = 1)
+```
+![image](https://user-images.githubusercontent.com/92450677/203504766-10d56da1-2310-4a12-8d5c-2ae7c0eedb3f.png)
 
 
 
