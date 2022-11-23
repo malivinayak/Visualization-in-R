@@ -35,3 +35,5 @@ tail(cricket,7)
 ```
 tail(cricket,-7)
 ```
+![image](https://user-images.githubusercontent.com/92450677/203500058-88281f9f-6972-4a91-967e-234255bc9c14.png)
+
